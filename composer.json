@@ -1,0 +1,16 @@
+{
+    "name": "ishop/ishop",
+    "authors": [
+        {
+            "name": "Azamat9904",
+            "email": "azamatnamialy@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "app",
+            "ishop\\": "ishop"
+        }
+    },
+    "require": {}
+}

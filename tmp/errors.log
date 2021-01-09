@@ -1,0 +1,106 @@
+Дата[2021:01:09 23:12:50] текст ошибки: Ошибка , Строка ошибки: 9, Файл ошибки: W:\domains\ishop\public\index.php, Код ошибки: 404
+=================================
+Дата[2021:01:09 23:12:50] текст ошибки: Ошибка , Строка ошибки: 9, Файл ошибки: W:\domains\ishop\public\index.php, Код ошибки: 404
+=================================
+Дата[2021:01:09 23:13:09] текст ошибки: Ошибка , Строка ошибки: 9, Файл ошибки: W:\domains\ishop\public\index.php, Код ошибки: 404
+=================================
+Дата[2021:01:09 23:13:09] текст ошибки: Ошибка , Строка ошибки: 9, Файл ошибки: W:\domains\ishop\public\index.php, Код ошибки: 404
+=================================
+Дата[2021:01:09 23:13:12] текст ошибки: Ошибка , Строка ошибки: 9, Файл ошибки: W:\domains\ishop\public\index.php, Код ошибки: 404
+=================================
+Дата[2021:01:09 23:13:12] текст ошибки: Ошибка , Строка ошибки: 9, Файл ошибки: W:\domains\ishop\public\index.php, Код ошибки: 404
+=================================
+Дата[2021:01:09 23:14:12] текст ошибки: Ошибка , Строка ошибки: 9, Файл ошибки: W:\domains\ishop\public\index.php, Код ошибки: 404
+=================================
+Дата[2021:01:09 23:14:12] текст ошибки: Ошибка , Строка ошибки: 9, Файл ошибки: W:\domains\ishop\public\index.php, Код ошибки: 404
+=================================
+Дата[2021:01:09 23:22:38] текст ошибки: Class 'ishop\core\Route' not found, Строка ошибки: 15, Файл ошибки: W:\domains\ishop\ishop\core\App.php, Код ошибки: 0
+=================================
+Дата[2021:01:09 23:22:39] текст ошибки: Class 'ishop\core\Route' not found, Строка ошибки: 15, Файл ошибки: W:\domains\ishop\ishop\core\App.php, Код ошибки: 0
+=================================
+Дата[2021:01:09 23:37:46] текст ошибки: Call to undefined function ishop\core\strpost(), Строка ошибки: 47, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:09 23:37:46] текст ошибки: Call to undefined function ishop\core\strpost(), Строка ошибки: 47, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:09 23:47:41] текст ошибки: Class 'ishop\core\Exception' not found, Строка ошибки: 32, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:09 23:47:41] текст ошибки: Class 'ishop\core\Exception' not found, Строка ошибки: 35, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:09 23:48:22] текст ошибки: Class 'ishop\core\Exception' not found, Строка ошибки: 33, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:09 23:48:22] текст ошибки: Class 'ishop\core\Exception' not found, Строка ошибки: 36, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:09 23:48:57] текст ошибки: Class 'ishop\core\Exception' not found, Строка ошибки: 34, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:09 23:48:57] текст ошибки: Class 'ishop\core\Exception' not found, Строка ошибки: 37, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:09 23:49:16] текст ошибки: Too few arguments to function debug(), 0 passed in W:\domains\ishop\ishop\core\Router.php on line 23 and exactly 1 expected, Строка ошибки: 3, Файл ошибки: W:\domains\ishop\ishop\libs\functions.php, Код ошибки: 0
+=================================
+Дата[2021:01:09 23:49:16] текст ошибки: Class 'ishop\core\Exception' not found, Строка ошибки: 38, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:09 23:49:23] текст ошибки: Class 'ishop\core\Exception' not found, Строка ошибки: 32, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:09 23:49:23] текст ошибки: Class 'ishop\core\Exception' not found, Строка ошибки: 38, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:09 23:49:39] текст ошибки: Class 'ishop\core\Exception' not found, Строка ошибки: 33, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:09 23:49:39] текст ошибки: Class 'ishop\core\Exception' not found, Строка ошибки: 36, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:09 23:49:50] текст ошибки: Class 'ishop\core\Exception' not found, Строка ошибки: 33, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:09 23:49:50] текст ошибки: Class 'ishop\core\Exception' not found, Строка ошибки: 36, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:09 23:49:51] текст ошибки: Class 'ishop\core\Exception' not found, Строка ошибки: 33, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:09 23:49:51] текст ошибки: Class 'ishop\core\Exception' not found, Строка ошибки: 36, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:09 23:52:06] текст ошибки: Class 'ishop\core\Exception' not found, Строка ошибки: 36, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:09 23:52:06] текст ошибки: Class 'ishop\core\Exception' not found, Строка ошибки: 39, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:09 23:52:31] текст ошибки: Class 'ishop\core\Exception' not found, Строка ошибки: 36, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:09 23:52:31] текст ошибки: Class 'ishop\core\Exception' not found, Строка ошибки: 39, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:09 23:52:34] текст ошибки: Class 'ishop\core\Exception' not found, Строка ошибки: 36, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:09 23:52:34] текст ошибки: Class 'ishop\core\Exception' not found, Строка ошибки: 39, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:09 23:53:01] текст ошибки: Class 'ishop\core\Exception' not found, Строка ошибки: 35, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:09 23:53:01] текст ошибки: Class 'ishop\core\Exception' not found, Строка ошибки: 38, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:09 23:53:05] текст ошибки: Class 'ishop\core\Exception' not found, Строка ошибки: 35, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:09 23:53:05] текст ошибки: Class 'ishop\core\Exception' not found, Строка ошибки: 38, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:09 23:53:25] текст ошибки: Class 'ishop\core\Exception' not found, Строка ошибки: 37, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:09 23:53:26] текст ошибки: Class 'ishop\core\Exception' not found, Строка ошибки: 40, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:09 23:53:54] текст ошибки: Class 'ishop\core\Exception' not found, Строка ошибки: 32, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:09 23:53:54] текст ошибки: Class 'ishop\core\Exception' not found, Строка ошибки: 38, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:09 23:54:06] текст ошибки: Class 'ishop\core\Exception' not found, Строка ошибки: 35, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:09 23:54:06] текст ошибки: Class 'ishop\core\Exception' not found, Строка ошибки: 38, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:09 23:54:09] текст ошибки: Class 'ishop\core\Exception' not found, Строка ошибки: 32, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:09 23:54:09] текст ошибки: Class 'ishop\core\Exception' not found, Строка ошибки: 38, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:09 23:54:21] текст ошибки: Class 'ishop\core\Exception' not found, Строка ошибки: 30, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:09 23:54:21] текст ошибки: Class 'ishop\core\Exception' not found, Строка ошибки: 36, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:09 23:54:39] текст ошибки: Class 'ishop\core\Exception' not found, Строка ошибки: 36, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:10 00:01:05] текст ошибки: Class 'ishop\core\Exception' not found, Строка ошибки: 36, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:10 00:12:12] текст ошибки: Class 'ishop\core\Exception' not found, Строка ошибки: 36, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:10 00:12:42] текст ошибки: Class 'ishop\core\Exception' not found, Строка ошибки: 36, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
+Дата[2021:01:10 00:13:07] текст ошибки: Class 'ishop\core\Exception' not found, Строка ошибки: 36, Файл ошибки: W:\domains\ishop\ishop\core\Router.php, Код ошибки: 0
+=================================
