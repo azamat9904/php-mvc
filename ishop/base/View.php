@@ -43,7 +43,7 @@ class View{
         if($this->layout !== false){
             $layoutPath = APP . '/views/layouts/' . $this->layout . '.php';
             if(\file_exists($layoutPath)){
-                require_once $layout;
+                require_once $layoutPath;
             }else{
                 throw new Exception("Layout {$layoutPath} не найден", 404);
             }
